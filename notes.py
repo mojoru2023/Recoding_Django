@@ -4,7 +4,7 @@
 
 #批量创建py文件(linux命令)
 
-#touch file.{1..5}.html
+#touch file.{1..5}.py
 
 
 
