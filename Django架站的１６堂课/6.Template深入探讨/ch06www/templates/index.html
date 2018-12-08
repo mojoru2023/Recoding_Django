@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+</head>
+<body>
+  <h2>Hello world!</h2>
+  <hr>
+   <em>
+       {{ now }}
+   </em>
+ <div class="navbar-barnd" align="center">
+     {% load staticfiles %}
+     <img src="{% static 'images/logo.png' %}" width="60">
+     {{tv.name}}
+
+ </div>
+</body>
+</html>

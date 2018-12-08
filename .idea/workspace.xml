@@ -1,8 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.1.py" line="41" />
+    <bookmark url="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.1.py" line="102" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b8946cbf-ea16-4021-bb01-84b15c8ff9fe" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/notes.py" beforeDir="false" afterPath="$PROJECT_DIR$/notes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Recoding_Django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Recoding_Django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Django架站的１６堂课/7.Models与数据库/file.1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django架站的１６堂课/7.Models与数据库/file.1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,50 +35,35 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1013392066">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.22" value="1" />
-          <entry key="project.opened" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="854" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="Python" value="854" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/notes.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/mblog/mblog/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="1725">
+              <caret line="115" column="13" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/file.2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -62,6 +72,44 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/notes.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/admin.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.2.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/models.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.3.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/mynewsite/settings.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/disp_html.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/disp_html.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/disp.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.4.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/index.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/list.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.5.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/mynewsite/urls.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/views.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/about.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/mysite/views.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/ch005www/settings.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/ch005www/urls.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.2.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/templates/index.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/mysite/views.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/ch06www/settings.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/ch06www/urls.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/mysite/views.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/templates/index.html" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.2.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.3.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/7.Models与数据库/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.2.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.3.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/file.1.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/mblog/mblog/settings.py" />
+        <option value="$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/file.2.py" />
       </list>
     </option>
   </component>
@@ -71,7 +119,9 @@
     <option name="width" value="1277" />
     <option name="height" value="637" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -89,6 +139,103 @@
               <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
               <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="1.网站开发环境的建立" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="2.django网站快速入门" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="2.django网站快速入门" type="462c0819:PsiDirectoryNode" />
+              <item name="mblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="2.django网站快速入门" type="462c0819:PsiDirectoryNode" />
+              <item name="mblog" type="462c0819:PsiDirectoryNode" />
+              <item name="mainsite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="2.django网站快速入门" type="462c0819:PsiDirectoryNode" />
+              <item name="mblog" type="462c0819:PsiDirectoryNode" />
+              <item name="mblog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="4.深入了解Django的MVC架构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="5.网址的对应和委派" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="5.网址的对应和委派" type="462c0819:PsiDirectoryNode" />
+              <item name="ch005www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Template深入探讨" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Template深入探讨" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Template深入探讨" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06www" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06www" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Template深入探讨" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06www" type="462c0819:PsiDirectoryNode" />
+              <item name="mysite" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="6.Template深入探讨" type="462c0819:PsiDirectoryNode" />
+              <item name="ch06www" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Recoding_Django" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Recoding_Django" type="462c0819:PsiDirectoryNode" />
+              <item name="Django架站的１６堂课" type="462c0819:PsiDirectoryNode" />
+              <item name="7.Models与数据库" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -97,8 +244,14 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/static" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -157,7 +310,7 @@
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23106061" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23048328" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -168,7 +321,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.39182281" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -177,14 +330,289 @@
       <window_info anchor="right" id="Mongo Explorer" order="3" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/migrations/0002_product.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/notes.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="21" />
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="77" column="104" selection-start-line="77" selection-start-column="60" selection-end-line="77" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/disp_html.py" />
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/disp_html.html" />
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="26" selection-start-line="50" selection-start-column="26" selection-end-line="50" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="47" column="33" selection-start-line="47" selection-start-column="33" selection-end-line="47" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../PYENV/lib/python3.6/site-packages/django/db/models/query.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3195">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/file.5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="58" selection-start-line="10" selection-start-column="58" selection-end-line="10" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/disp.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/list.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/myapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="795">
+          <caret line="53" column="27" selection-start-line="53" selection-start-column="27" selection-end-line="53" selection-end-column="27" />
+          <folding>
+            <element signature="e#23#58#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/mysite/views.py" />
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/mysite/admin.py" />
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/mynewsite/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="15" selection-start-line="15" selection-end-line="16" />
+          <folding>
+            <element signature="e#642#682#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1380">
+          <caret line="93" column="1" selection-start-line="93" selection-start-column="1" selection-end-line="93" selection-end-column="1" />
+          <folding>
+            <element signature="e#1077#1109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/ch005www/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="55" selection-start-line="55" selection-end-line="69" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/ch06www/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/4.深入了解Django的MVC架构/mynewsite/mynewsite/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/mysite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/ch005www/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/ch06www/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#640#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/mysite/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="130" column="27" selection-start-line="130" selection-start-column="27" selection-end-line="130" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/file.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/5.网址的对应和委派/ch005www/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/7.Models与数据库/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/6.Template深入探讨/ch06www/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/2.Ｄjango网站快速入门/file.1.py" />
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="60" column="1" selection-start-line="60" selection-start-column="1" selection-end-line="60" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/file.1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/1.网站开发环境的建立/file.3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/mblog/mblog/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1725">
+          <caret line="115" column="13" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Django架站的１６堂课/2.django网站快速入门/file.2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="44" lean-forward="true" selection-start-line="13" selection-start-column="44" selection-end-line="13" selection-end-column="44" />
         </state>
       </provider>
     </entry>
